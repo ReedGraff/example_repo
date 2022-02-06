@@ -1,5 +1,7 @@
 # example_repo
-This is a description...  **This is bold**, check this out```this is gold```
+This is for the CS club at WFS...  
+This is a description... 
+**This is bold**, check this out```this is gold```
 
 ```
 def Function()
